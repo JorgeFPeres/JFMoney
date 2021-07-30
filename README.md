@@ -1,5 +1,4 @@
 <h1 align="center">
-    
     <img alt="JFMoney" src="public/Logo.png" width="160px"> 
 </h1>
 
