@@ -30,6 +30,7 @@ This project was developed using the following technologies:
 
 - [Mirage.js](https://miragejs.com/)
 - [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Styled-Component](https://styled-components.com/)
 
 ## 🚀 Getting started
